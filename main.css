@@ -1,0 +1,19 @@
+body,
+html {
+    height: 100%;
+}
+
+body {
+    background: url("/assets/wire_bkg_flag.png"), url("/assets/wire_sky_bkg.jpg");
+    background-position: bottom, center;
+    background-repeat: no-repeat;
+    background-size: 100%, cover;
+    padding-top: 20px, 0px;
+     
+    
+}
+
+.logo {
+    padding: 30px;
+}
+
