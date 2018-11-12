@@ -9,7 +9,7 @@ I have created user stories for three potential users tha would be the demograph
 - the third persona is festival goer who may have come accross Wire in  a live setting where they may not have been headlining. This user is the more transient user of the site that is looking for information on what festivals or locations they are playing. 
 
 ## Features
-I plan on having a simple landing page that shows some of the srtwork from the band over the years and links off to the media pages and to the information pages. I pand on putting a page re. each band members information and a timeline for the bands milestones.
+I plan on having a simple landing page that shows some of the artwork from the band over the years and links off to the media pages and to the information pages. I pand on putting a page re. each band members information and a timeline for the bands milestones.
 
 This will allow users to find information about the bands history personnel and their upcoming gigs. Also I would like to link through to an e-commerce such as bandcamp so that patrons can purchase digital files or hardcopy of their music. Ultimatly I would like this to be integrated into the website but for the purposes of this site I will be happy to like off to it. 
 
