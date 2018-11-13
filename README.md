@@ -9,57 +9,32 @@ I have created user stories for three potential users tha would be the demograph
 - the third persona is festival goer who may have come accross Wire in  a live setting where they may not have been headlining. This user is the more transient user of the site that is looking for information on what festivals or locations they are playing. 
 
 ## Features
-I plan on having a simple landing page that shows some of the artwork from the band over the years and links off to the media pages and to the information pages. I pand on putting a page re. each band members information and a timeline for the bands milestones.
+I plan on having a simple landing page that shows some of the artwork from the band over the years and links off to the media pages and to the information pages. I plan on putting a page re. each band members information and a timeline for the bands milestones in a history page.
 
-This will allow users to find information about the bands history personnel and their upcoming gigs. Also I would like to link through to an e-commerce such as bandcamp so that patrons can purchase digital files or hardcopy of their music. Ultimatly I would like this to be integrated into the website but for the purposes of this site I will be happy to like off to it. 
+This will allow users to find information about the bands history personnel and their upcoming gigs. Also I would like to link through to an e-commerce such as bandcamp so that patrons can purchase digital files or hardcopy of their music. Ultimatley I would like this to be integrated into the website but for the purposes of this site I will be happy to like off to it. 
+for ease of finding information on the bands upcoming Gigs I would like to add a link to social media sites.
 
 
-Existing Features
-play sounds from soundcloud on the page allows users to listen to tracks from the band 
+## Existing Features
+play sounds from soundcloud on the page allows users to listen to tracks from the band.
+i-frame of the bands social media
 ...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ## Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-JQuery
-The project uses JQuery to simplify DOM manipulation.
-Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+responsive media for the menus. I would like to have the top menu to be a hamburger for mobile . this is to clear up space on the page. 
 
 ## Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+not sure of a contact form , though probably should put to show that i can
 
 ## Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+this will be created in cloud9. I will be creating a repo for the files on Git-hub as backup. 
 
 ## Credits
 Content
 The text for section Y was copied from the Wikipedia article Z
 Media
-The photos used in this site were obtained from ...
+The photos used in this site were obtained from pinkflag.com
+the sounds were from the bands soundcloud page 
 Acknowledgements
-I received inspiration for this project from X# wire_website
+I received inspiration for this project from the wire website pinkflag.com

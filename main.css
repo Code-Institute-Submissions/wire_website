@@ -18,7 +18,7 @@ font-family: 'Teko', sans-serif;*/
 
 }
 
-a {
+.navbar a {
     margin-top: .25em;
     font-family: 'Work Sans', sans-serif;
     color: #000;
@@ -145,16 +145,12 @@ a>-webkit-any-link:hover {
     .i-twit {
         display: none;
     }
-}
-
-@media (max-width: 1200px) {
+    .i-live {
+        min-height: 1000px;
+    }
     .img-name {
         display: none;
     }
 }
 
-@media (max-width: 1200px) {
-    .i-live {
-        min-height: 1000px;
-    }
-}
+
