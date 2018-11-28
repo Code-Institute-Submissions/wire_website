@@ -83,6 +83,27 @@ a>-webkit-any-link:hover {
 
 }
 
+/*----------- news styling -----------*/
+
+.news-scroll {
+    padding-leftS: 50px;
+    max-height: 600px;
+    overflow: scroll;
+}
+
+.news {
+    padding-left: 30px;
+}
+
+.i-twit {
+    padding-right: 50px;
+    float: right;
+    max-height: 550px;
+
+}
+
+/*-----------mailing list ------------*/
+
 /*------------- scrollbar styles ----------*/
 
 ::-webkit-scrollbar {
@@ -93,7 +114,6 @@ a>-webkit-any-link:hover {
 
 ::-webkit-scrollbar-thumb {
     background: rgb(255, 105, 180, 0.5);
-
     border-radius: 5px;
 }
 
@@ -111,46 +131,100 @@ a>-webkit-any-link:hover {
 
 /*----------- footer styling -----------*/
 
+.call_to_foot {
+    background-color: #ef9cb5;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
 .footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: grey;
-    opacity: 0.25;
+
+    opacity: 0.4;
     max-height: 60px;
 }
 
 .footer:hover {
     position: fixed;
+    color: #FF66B3;
     left: 0;
     bottom: 0;
     width: 100%;
     opacity: .75;
-    min-height: 110px;
+    min-height: 130px;
+
+}
+
+.fa-volume-up {
+    color: #000;
+
 
 }
 
 /*------------live styling ---------*/
 
 .i-live {
+
     margin: 0 auto;
     text-align: center;
+}
+
+.fluid-container .fake-i-frame {
+    display: inline-block;
+    min-width: 100px;
+    border: solid red 1px;
+}
+
+.past-gigs {
+
+    position: relative;
+    min-height: 500px;
+    margin-left: 100px;
+    border: solid red 1px;
+}
+
+.gigs-history {
+
+    position: relative;
+    min-height: 500px;
+    margin-right: 100px;
+    border: solid red 1px;
+    float: right;
+}
+
+.gigs-live {
+    position: relative;
+    margin-right: 100px;
+    float: right;
+}
+
+/*------------fake facebook iframe styling ---------*/
+
+.fluid-container .fake-i-frame {
+    min-width: 500px;
+    border: solid red 1px;
+}
+
+.like-button {
+    max-height: 50px;
 }
 
 
 /*------------media query ---------*/
 
 @media (max-width: 1200px) {
-    .i-twit {
-        display: none;
-    }
     .i-live {
-        min-height: 1000px;
+        min-height: 100px;
     }
     .img-name {
         display: none;
     }
+
 }
-
-

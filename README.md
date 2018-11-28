@@ -31,10 +31,7 @@ not sure of a contact form , though probably should put to show that i can
 this will be created in cloud9. I will be creating a repo for the files on Git-hub as backup. 
 
 ## Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
 The photos used in this site were obtained from pinkflag.com
 the sounds were from the bands soundcloud page 
 Acknowledgements
-I received inspiration for this project from the wire website pinkflag.com
+I received inspiration for this project from the wire website pinkflag.com and from listening to wire
