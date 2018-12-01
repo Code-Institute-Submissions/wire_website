@@ -30,7 +30,7 @@ font-family: 'Teko', sans-serif;*/
 
 .h1,
 h1 {
-    margin-left: 30px;
+
     font-size: 36px;
     font-family: "work sans";
     font-weight: 800;
@@ -61,6 +61,7 @@ body {
 
 .text-box {
     border: none;
+
     padding: 0px;
     font: 24px/36px 'Work Sans', sans-serif;
     width: 100%;
@@ -84,6 +85,10 @@ a>-webkit-any-link:hover {
     background-color: rgba(0, 0, 0, .075);
     border-radius: 25px;
 
+}
+
+.member-info {
+    padding-left: 30px;
 }
 
 /*----------- news styling -----------*/
@@ -186,20 +191,39 @@ a>-webkit-any-link:hover {
 /*------------live styling ---------*/
 
 .i-live {
+    margin: 30px;
+    background: url("/assets/groupshot.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%, cover;
+    height:250px;
 
-    margin: 0 auto;
-    text-align: center;
 }
 
-.fluid-container .fake-i-frame {
-    display: inline-block;
-    min-width: 100px;
-    border: solid red 1px;
+.img-face{
+    margin: 30px 20px 20px 20px;
+}
+
+.face-like{
+    position: absolute;
+    left: 0px;
+    max-height: 50px;
+    max-width: 80px;
+}
+
+.group-img {
+    width: 100%;
+    min-height:200px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+
 }
 
 .gigs-live {
     position: relative;
-    margin-top:200px;
+    margin-top: 200px;
     margin-right: 100px;
     margin-left: 100px;
     float: right;
@@ -232,9 +256,9 @@ a>-webkit-any-link:hover {
 
     .gigs-live {
 
-    position: relative;
-    margin-left: 100px,
-    
-    
-}
+        position: relative;
+        margin-left: 100px,
+
+
+    }
 }
