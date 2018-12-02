@@ -196,50 +196,50 @@ a>-webkit-any-link:hover {
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%, cover;
-    height:250px;
+    height: 250px;
 
 }
 
-.img-face{
+.img-face {
     margin: 30px 20px 20px 20px;
 }
 
-.face-like{
+.face-like {
     position: absolute;
-    left: 0px;
-    max-height: 50px;
-    max-width: 80px;
+    left: 10px;
+    bottom: 10px;
+    max-height: 100px;
 }
 
 .group-img {
-    width: 100%;
-    min-height:200px;
+    
+    max-height: 200px;
     position: absolute;
-    left: 0px;
-    top: 0px;
+  
     z-index: -1;
 
 }
 
 .gigs-live {
-    position: relative;
-    margin-top: 200px;
-    margin-right: 100px;
-    margin-left: 100px;
+     margin-top: 150px;
     float: right;
+    margin-right: 100px;
 }
 
-/*------------fake facebook iframe styling ---------*/
-
-.fluid-container .fake-i-frame {
-    min-width: 500px;
-    border: solid red 1px;
+.gigs-info{
+    margin-top: 60px;
+    background-color: #000;
+    color: #fff;
+    max-height: 400px;
+    min-width: 100%;
+    overflow: scroll;
 }
 
-.like-button {
-    max-height: 50px;
+.upcoming-gigs{
+    margin-left: 10px;
+    color: #fff;
+    font-weight: bolder;
 }
-
 
 /*------------media query ---------*/
 
