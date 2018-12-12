@@ -3,10 +3,35 @@
 I plan on making a website that pays homage to Wire, founded in 1976 they have consistently been pushing the boundaries of punk, post punk, experimental and electronic music for over forty years and have stayed as relevant today as they were in the 70's. The website wil be a live portal to the bands current incarnation and will include information on the bands memebers past and present and information on their upcoming gigs.
 
 ## UX
-I have created user stories for three potential users tha would be the demographic of the Wire listener. Considering the focus of the band over the last 40 years has been to aim for contemporary listeners the 
-- primary persona will be a 17 - 24 year old who is into music and has discovered wire through spotify or through youtube. This user is interested in individual songs rather than complete albums. They are concert goers but would mainly be the streaming type listener. The bands experimental side is very much their cache when it comes to this user and their contemporary sound is the focus for this user.  
-- the second persona is the classic Wire listener who has been listening to them since the 80's or 90's and is interested in the more vintage early punk or post-punk sound. This user older has more disposable income and is interested in hardcopy of the music on vinyl or cd. This user is the gig going type but with the band as headliner rather than a festival type scenario. 
-- the third persona is festival goer who may have come accross Wire in  a live setting where they may not have been headlining. This user is the more transient user of the site that is looking for information on what festivals or locations they are playing. 
+
+1. #####Background
+	2. Empathise
+	3. Band Research 
+	4. Survey/reddit/Band-site
+	5. Empathise with Fans
+<br>
+
+2.	#####Define
+	1. Problem Statement
+<br>
+
+3. #####Hypothesis
+4. #####Ideate
+	1. Learning from compeditor research
+<br>
+
+5. #####Prototype
+6. #####Feedback
+
+<br><br><br>
+
+1. ##Emapthise
+#####Band Research
+######Current Site
+
+![](http://)
+
+
 
 ## Features
 I plan on having a simple landing page that shows some of the artwork from the band over the years and links off to the media pages and to the information pages. I plan on putting a page re. each band members information and a timeline for the bands milestones in a history page.
@@ -35,3 +60,4 @@ The photos used in this site were obtained from pinkflag.com
 the sounds were from the bands soundcloud page 
 Acknowledgements
 I received inspiration for this project from the wire website pinkflag.com and from listening to wire
+
