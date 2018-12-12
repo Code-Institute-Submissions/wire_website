@@ -4,30 +4,32 @@ I plan on making a website that pays homage to Wire, founded in 1976 they have c
 
 ## UX
 
-1. #####Background
-	2. Empathise
-	3. Band Research 
-	4. Survey/reddit/Band-site
-	5. Empathise with Fans
+##### Background
+	 Empathise
+	 Band Research 
+	 Survey/reddit/Band-site
+	 Empathise with Fans
 <br>
 
-2.	#####Define
-	1. Problem Statement
+##### Define
+	Problem Statement
+
 <br>
 
-3. #####Hypothesis
-4. #####Ideate
-	1. Learning from compeditor research
+##### Hypothesis
+
+##### Ideate
+	 Learning from compeditor research
 <br>
 
-5. #####Prototype
-6. #####Feedback
+##### Prototype
+##### Feedback
 
 <br><br><br>
 
-1. ##Emapthise
-#####Band Research
-######Current Site
+## Emapthise
+##### Band Research
+###### Current Site
 
 ![](http://)
 
