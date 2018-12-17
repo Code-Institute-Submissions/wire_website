@@ -1,6 +1,5 @@
-<br>
-## 
-##https://milestone-project-wire-frankprendergast.c9users.io/index.html
+
+####  https://milestone-project-wire-frankprendergast.c9users.io/index.html
 
 # Contents
 
@@ -65,8 +64,8 @@ I plan on having a simple landing page that shows some of the artwork from the b
 Website is not responsive. The navigation is and to read and is not accessible for users.
 
 
-###Survey Research
-####Link to Survey > [How do you discover old Bands?](https://docs.google.com/forms/d/1YDPSMKNokAyRYbS9xY9tMp7E4q2i35HpwZygb7rrcH0/edit#responses)
+### Survey Research
+#### Link to Survey > [How do you discover old Bands?](https://docs.google.com/forms/d/1YDPSMKNokAyRYbS9xY9tMp7E4q2i35HpwZygb7rrcH0/edit#responses)
 
 ###### Design survey to get appropriate information.
 
@@ -216,7 +215,7 @@ Once I decided on the direction I decided the colours and typography that would 
 
 # 4. Feedback
 ### User Tests
-####Script (approx 10min)
+#### Script (approx 10min)
 
 Hi [  user name  ], My name is Frank and I’m doing some research to help design a band website.  Thanks for taking the time to speak with me today. 
 
@@ -236,7 +235,7 @@ Do you have any questions before we begin?
 * Do you think the website gives a good representation to the type of band genre?
 * Overall, what do you like/dislike about the website? Be as frank as you like, I won’t be offended.
 
-##### See user test on youtube
+#### See user test on youtube (click image)
 
 [![IMAGE ALT TEXT](/md_images/youtube_user_test.JPG)](https://youtu.be/yRjraLh-ydM "User_Test")
 
