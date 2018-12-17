@@ -9,13 +9,11 @@
 	* Band Research 
 	* Survey Research
 	* Empathise with Fans
-<br>
 
 2.	##### Define
 	* Empathy Mapping
 	* Problem Statement
 	* Hypothesis
-<br>
 
 3. ##### Ideate
 	* Competitor research
@@ -29,12 +27,10 @@
 4. ##### Prototype
 	* Wireframes 
 	* Moodboard
-<br>
 
 5. ##### Feedback
 	* User Tests
 	* Iterations
-<br>
 	
 6. ##### Acknowledgements 
 
@@ -90,7 +86,7 @@ The results gave me an indication of what categories were important for users. T
 	4. Video
 	5. Band social media / Band Gallery, Band Bio
 	6. Band fan forum
-####Results Table
+#### Results Table
 |How do you discover old bands?| Do you follow up and visit bands websites?|What information is most important to you?|What band websites do you like?|
 |:--------|:--------|:--------|:--------|
 |Spotify|yes|Audio||
@@ -117,7 +113,7 @@ I took these answers into consideration when considering the categories for my w
 <br><br><br>
 
 ## 2. Define
-####Empathy Mapping
+#### Empathy Mapping
 ![Empathy](https://github.com/nihilsmaw/wire_website/blob/master/md_images/empathy_map.jpg?raw=true)
 [Link: Interaction Design Foundation](https://www.interaction-design.org/literature/article/stage-2-in-the-design-thinking-process-define-the-problem-and-interpret-the-results)
 
