@@ -1,3 +1,7 @@
+<br>
+## 
+##https://milestone-project-wire-frankprendergast.c9users.io/index.html
+
 # Contents
 
 #### Intro
@@ -6,11 +10,13 @@
 	* Band Research 
 	* Survey Research
 	* Empathise with Fans
+<br>
 
 2.	##### Define
 	* Empathy Mapping
 	* Problem Statement
 	* Hypothesis
+<br>
 
 3. ##### Ideate
 	* Competitor research
@@ -29,6 +35,7 @@
 5. ##### Feedback
 	* User Tests
 	* Iterations
+<br>
 	
 6. ##### Acknowledgements 
 
@@ -58,8 +65,8 @@ I plan on having a simple landing page that shows some of the artwork from the b
 Website is not responsive. The navigation is and to read and is not accessible for users.
 
 
-### Survey Research
-#### Link to Survey > [How do you discover old Bands?](https://docs.google.com/forms/d/1YDPSMKNokAyRYbS9xY9tMp7E4q2i35HpwZygb7rrcH0/edit#responses)
+###Survey Research
+####Link to Survey > [How do you discover old Bands?](https://docs.google.com/forms/d/1YDPSMKNokAyRYbS9xY9tMp7E4q2i35HpwZygb7rrcH0/edit#responses)
 
 ###### Design survey to get appropriate information.
 
@@ -84,7 +91,7 @@ The results gave me an indication of what categories were important for users. T
 	4. Video
 	5. Band social media / Band Gallery, Band Bio
 	6. Band fan forum
-#### Results Table
+####Results Table
 |How do you discover old bands?| Do you follow up and visit bands websites?|What information is most important to you?|What band websites do you like?|
 |:--------|:--------|:--------|:--------|
 |Spotify|yes|Audio||
@@ -111,7 +118,7 @@ I took these answers into consideration when considering the categories for my w
 <br><br><br>
 
 ## 2. Define
-#### Empathy Mapping
+####Empathy Mapping
 ![Empathy](https://github.com/nihilsmaw/wire_website/blob/master/md_images/empathy_map.jpg?raw=true)
 [Link: Interaction Design Foundation](https://www.interaction-design.org/literature/article/stage-2-in-the-design-thinking-process-define-the-problem-and-interpret-the-results)
 
@@ -209,13 +216,60 @@ Once I decided on the direction I decided the colours and typography that would 
 
 # 4. Feedback
 ### User Tests
+####Script (approx 10min)
+
+Hi [  user name  ], My name is Frank and I’m doing some research to help design a band website.  Thanks for taking the time to speak with me today. 
+
+Before we begin, I’d like to cover a few points: 
+This discussion will take approx [10] minutes
+
+We will ask you to review a website and do a few tasks. We are not testing you. There are no right or wrong answers. Your feedback will help us to improve the website, so please be honest about your thoughts and experiences. **Please speak out loud as you are using the site.**
+
+If you have any questions please ask. I’ll do my best to answer them. 
+Do you have any questions before we begin?
+
+* What do you think this website is about?
+* Where would you go to find out about current events.
+* Where would you find videos?
+* Find where you would listen to audio on the site
+* Go to the biography area of the site. Tell me who you think this page is about?
+* Do you think the website gives a good representation to the type of band genre?
+* Overall, what do you like/dislike about the website? Be as frank as you like, I won’t be offended.
+
+##### See user test on youtube
+
+[![IMAGE ALT TEXT](/md_images/youtube_user_test.JPG)](https://youtu.be/yRjraLh-ydM "User_Test")
+
 ### Iterations
+Overall the user test was very positive. The participant easily navigated the site and was able to use it. She was able to complete all the tasks that were asked of her. She mentioned that it would be nice to see a list of songs for audio. This is something that would benefit the audience and I will consider iterating the website based on this feedback.
 
 # 5. Acknowledgements
 - I received inspiration for this project from the wire website pinkflag.com and from listening to wire.
 - I used compeditors, Devo, Trobbing Gristle and Talking Heads websites as inspiation and research.
 - I used the Interaction design Foundation as a source for information on the UX process.
 - The photos used in this site were obtained from pinkflag.com the sounds were from the bands soundcloud page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
