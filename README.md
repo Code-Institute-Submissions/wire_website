@@ -1,27 +1,43 @@
 # Contents
-1. ##### Background
-	* Empathise
+
+#### Intro
+
+1. ##### Empathise
 	* Band Research 
-	* Survey/reddit/Band-site
+	* Survey Research
 	* Empathise with Fans
 <br>
 
 2.	##### Define
+	* Empathy Mapping
 	* Problem Statement
+	* Hypothesis
 <br>
 
-3. ##### Hypothesis
-4. ##### Ideate
-	* Learning from compeditor research
+3. ##### Ideate
+	* Competitor research
+	* Learning from competitor research	
+	* Some priority categories that have emerged	
+	* Design considerations	
+	* Brainstorm	
+	* Sketches	
+	* User flow
+
+4. ##### Prototype
+	* Wireframes 
+	* Moodboard
 <br>
 
-5. ##### Prototype
-6. ##### Feedback
+5. ##### Feedback
+	* User Tests
+	* Iterations
+<br>
+	
+6. ##### Acknowledgements 
 
 <br><br><br>
 
-## 1. Background
-**1. Empathise**
+## Introduction
 I plan on making a website that pays homage to Wire, founded in 1976 they have consistently been pushing the boundaries of punk, post punk, experimental and electronic music for over forty years and have stayed as relevant today as they were in the 70's. The website wil be a live portal to the bands current incarnation and will include information on the bands memebers past and present and information on their upcoming gigs.
 
 ## UX
@@ -36,36 +52,31 @@ I have created user stories for three potential users tha would be the demograph
 
 I plan on having a simple landing page that shows some of the artwork from the band over the years and links off to the media pages and to the information pages. I plan on putting a page re. each band members information and a timeline for the bands milestones in a history page.
 
-<br><br><br>
 
-**2. Band Research**
+## 1. Empathise
+#### Band Research
 ###### Current Site
 
-![Current Site](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/pink_flag.png)
+![Current Site](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/pink_flag.png)<br>
+Website is not responsive. The navigation is and to read and is not accessible for users.
 
-<br><br><br>
-**3. Survey/reddit/Band-site**
 
-[Survey -- How do you discover old Bands?](https://docs.google.com/forms/d/1YDPSMKNokAyRYbS9xY9tMp7E4q2i35HpwZygb7rrcH0/edit#responses)
-#### Design survey to get appropriate information.
-<br>
+###Survey Research
+####Link to Survey > [How do you discover old Bands?](https://docs.google.com/forms/d/1YDPSMKNokAyRYbS9xY9tMp7E4q2i35HpwZygb7rrcH0/edit#responses)
+
+###### Design survey to get appropriate information.
+
 
 ![Survey](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/survey.png)
 
-<br><br><br>
+###### Reddit: Best location for high rate of traffic for answers. 
 
-#### Best location for high rate of traffic for answers.
 
-<br>
 
 ![Survey Location](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/reddit.png)
 
-<br><br><br>
 
-##### Let the answers roll in.
-
-<br>
-
+###### Let the answers roll in.
 ![what is important](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/survey_results.png)
 
 The results gave me an indication of what categories were important for users. The participants of the survey reference the following categories in order:
@@ -76,7 +87,7 @@ The results gave me an indication of what categories were important for users. T
 	4. Video
 	5. Band social media / Band Gallery, Band Bio
 	6. Band fan forum
-
+####Results Table
 |How do you discover old bands?| Do you follow up and visit bands websites?|What information is most important to you?|What band websites do you like?|
 |:--------|:--------|:--------|:--------|
 |Spotify|yes|Audio||
@@ -96,27 +107,28 @@ The results gave me an indication of what categories were important for users. T
 I took these answers into consideration when considering the categories for my website design.
 <br><br><br>
 
-**4. Empathise with Fans**
+#### Empathise with Fans
 ###### Engage with fan-forum
 ![Fan forum](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/fan_discussion_forum.png)
 
 <br><br><br>
 
 ## 2. Define
+####Empathy Mapping
 ![Empathy](https://github.com/nihilsmaw/wire_website/blob/master/md_images/empathy_map.jpg?raw=true)
 [Link: Interaction Design Foundation](https://www.interaction-design.org/literature/article/stage-2-in-the-design-thinking-process-define-the-problem-and-interpret-the-results)
-<br>
+
 The Empathy Map help to gain an insight into how personas ‘Think and feel’, ‘See’, ‘Say and Do’ and ‘Hear’. It gives a perspective into what the ‘Pains’ and ’Gains’ are. Below is a digital empathy map that I did in realtimeboard so that I could begin to empathise with users and fans of Wire.
 
 ![Empathy Map](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/empathy_map.png)
 
 ##### Problem Statment
 After empathising with adhoc personas I was able to gain an insight into current issues on the website. I created problem statements to help inform the direction my design was .
-<br>
+
 “I am (Alex) trying to (find a gig) but (the Wire website is cluttered) because (of to much information) which makes me feel (frustrated).”
-<br>
+
 “I am (Shelly) trying to (listen to Wires music) but (the Wire website navigation is hard to follow) because (I can’t see the tabs) which makes me feel (confused).”
-<br>
+
 “I am (Justin) trying to (look Wire videos) but (I can’t see the site on my phone) because (the site isn’t responsive) which makes me feel (annoyed).”
 <br>
 
@@ -137,7 +149,7 @@ I believe that a simple responsive interface that uses colours and imagery from 
 * ## Throbbing Gristle
 ![Throbbing Gristle](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/thoribbing_gristle.jpg)
 <br><br>
- ## Breakdown of features
+ ### Breakdown of Features
 |Competitors|url|Purpose of site|Categories|Heuristic evaluation|General notes|
 |:------|:------|:------|:------|:------|:------|
 |Devo|http://www.clubdevo.com/|Band website|  -News -Bio -Merch -Store -Events -Photos -Videos -Music -Contact -Tell -Us -Devo|Slow to load - Nice use of colour and imagery - Easy to access Video/Audio - Easy to navigate - It is responsive|Nice website that demonstrates the style of the band
@@ -150,25 +162,27 @@ The competitor research has given me an insight into what other bands value on t
 ##### Some priority categories that have emerged:
 A common theme is a  subscribe to newsletter but band websites didn’t have a contact form. Band photography and band bio are important. Common themes also included having audio, video and past/current gigs.
 
-##### My design:
+### Design considerations
 For the purpose of this website it would be good to keep the website clean and functional but bring the style of the music into the website. This will enhance the experience of users as the music style will make the site enjoyable.
 
-# Brainstorm
+### Brainstorm
 ![](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/brainstorm.jpg)
 
-# Sketches
+##### Sketches
 ![](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/Sketch1_LP.jpg)
 <br>
 ![](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/sketch2_SM.jpg)
 <br>
 ![](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/sketch3_NF.jpg)
-
-# User Flow
+Sketching a number of ideas helped me consider a different possibilities. This was low effort and a quick way to consider various page layouts. After considering a number of possibilities I decided on a version that I think would hold up to my hypothesis. I then moved on to consider the user flow of the website in more detail.
+### User Flow
 ![](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/user_flow.jpg)
+By moving away from the sketches and considering how the user flowed through the website insured that my information architecture worked and was logical. This helped me visualise the main gateways through the site.
 
 # 4. Prototype
+### Wireframes 
 Once I decided the user flow that was the most appropriate for the audience. I wireframed the pages for the site. From my original sketches I designed a clean, logical and precise layout with the detail that is required for moving to the next step.
-<br>
+
 ###### Landing page
 ![](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/Wire_Wire_Frame.png)
 <br>
@@ -190,17 +204,21 @@ Once I decided the user flow that was the most appropriate for the audience. I w
 ###### Us Mobile
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Us Mobile](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/US%20mobile.png)
 <br>
+
 ### Moodboard
 Once I decided on the direction I decided the colours and typography that would be appropriate for the users of the site. I used inVision to gain an insight from the moodboard tools for colour. I based the typography on a san serif, clean legible font that reflected the album cover. The name of the font is ‘Worksans’.
 
 ![Moodboard](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/band_invsion_mood.png)
 
+# 4. Feedback
+### User Tests
+### Iterations
+
 # 5. Acknowledgements
-
-I received inspiration for this project from the wire website pinkflag.com and from listening to wire
-
-The photos used in this site were obtained from pinkflag.com
-the sounds were from the bands soundcloud page 
+- I received inspiration for this project from the wire website pinkflag.com and from listening to wire.
+- I used compeditors, Devo, Trobbing Gristle and Talking Heads websites as inspiation and research.
+- I used the Interaction design Foundation as a source for information on the UX process.
+- The photos used in this site were obtained from pinkflag.com the sounds were from the bands soundcloud page.
 
 
 
