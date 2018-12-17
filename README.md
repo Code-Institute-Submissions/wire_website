@@ -22,6 +22,20 @@
 
 ## 1. Background
 **1. Empathise**
+I plan on making a website that pays homage to Wire, founded in 1976 they have consistently been pushing the boundaries of punk, post punk, experimental and electronic music for over forty years and have stayed as relevant today as they were in the 70's. The website wil be a live portal to the bands current incarnation and will include information on the bands memebers past and present and information on their upcoming gigs.
+
+## UX
+
+I have created user stories for three potential users tha would be the demographic of the Wire listener. Considering the focus of the band over the last 40 years has been to aim for contemporary listeners the 
+
+- primary persona will be a 17 - 24 year old who is into music and has discovered wire through spotify or through youtube. This user is interested in individual songs rather than complete albums. They are concert goers but would mainly be the streaming type listener. The bands experimental side is very much their cache when it comes to this user and their contemporary sound is the focus for this user.  
+
+- the second persona is the classic Wire listener who has been listening to them since the 80's or 90's and is interested in the more vintage early punk or post-punk sound. This user older has more disposable income and is interested in hardcopy of the music on vinyl or cd. This user is the gig going type but with the band as headliner rather than a festival type scenario. 
+
+- the third persona is festival goer who may have come accross Wire in  a live setting where they may not have been headlining. This user is the more transient user of the site that is looking for information on what festivals or locations they are playing. 
+
+I plan on having a simple landing page that shows some of the artwork from the band over the years and links off to the media pages and to the information pages. I plan on putting a page re. each band members information and a timeline for the bands milestones in a history page.
+
 <br><br><br>
 
 **2. Band Research**
@@ -35,14 +49,23 @@
 [Survey -- How do you discover old Bands?](https://docs.google.com/forms/d/1YDPSMKNokAyRYbS9xY9tMp7E4q2i35HpwZygb7rrcH0/edit#responses)
 #### Design survey to get appropriate information.
 <br>
+
 ![Survey](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/survey.png)
+
 <br><br><br>
+
 #### Best location for high rate of traffic for answers.
+
 <br>
+
 ![Survey Location](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/reddit.png)
+
 <br><br><br>
+
 ##### Let the answers roll in.
+
 <br>
+
 ![what is important](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/survey_results.png)
 
 The results gave me an indication of what categories were important for users. The participants of the survey reference the following categories in order:
@@ -172,10 +195,12 @@ Once I decided on the direction I decided the colours and typography that would 
 
 ![Moodboard](https://raw.githubusercontent.com/nihilsmaw/wire_website/master/md_images/band_invsion_mood.png)
 
+# 5. Acknowledgements
 
+I received inspiration for this project from the wire website pinkflag.com and from listening to wire
 
-
-
+The photos used in this site were obtained from pinkflag.com
+the sounds were from the bands soundcloud page 
 
 
 
