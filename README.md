@@ -1,6 +1,5 @@
-<br>
-## 
-##https://milestone-project-wire-frankprendergast.c9users.io/index.html
+
+####  https://nihilsmaw.github.io/wire_website/
 
 # Contents
 
@@ -10,13 +9,11 @@
 	* Band Research 
 	* Survey Research
 	* Empathise with Fans
-<br>
 
 2.	##### Define
 	* Empathy Mapping
 	* Problem Statement
 	* Hypothesis
-<br>
 
 3. ##### Ideate
 	* Competitor research
@@ -30,12 +27,10 @@
 4. ##### Prototype
 	* Wireframes 
 	* Moodboard
-<br>
 
 5. ##### Feedback
 	* User Tests
 	* Iterations
-<br>
 	
 6. ##### Acknowledgements 
 
@@ -65,8 +60,8 @@ I plan on having a simple landing page that shows some of the artwork from the b
 Website is not responsive. The navigation is and to read and is not accessible for users.
 
 
-###Survey Research
-####Link to Survey > [How do you discover old Bands?](https://docs.google.com/forms/d/1YDPSMKNokAyRYbS9xY9tMp7E4q2i35HpwZygb7rrcH0/edit#responses)
+### Survey Research
+#### Link to Survey > [How do you discover old Bands?](https://docs.google.com/forms/d/1YDPSMKNokAyRYbS9xY9tMp7E4q2i35HpwZygb7rrcH0/edit#responses)
 
 ###### Design survey to get appropriate information.
 
@@ -91,7 +86,7 @@ The results gave me an indication of what categories were important for users. T
 	4. Video
 	5. Band social media / Band Gallery, Band Bio
 	6. Band fan forum
-####Results Table
+#### Results Table
 |How do you discover old bands?| Do you follow up and visit bands websites?|What information is most important to you?|What band websites do you like?|
 |:--------|:--------|:--------|:--------|
 |Spotify|yes|Audio||
@@ -118,7 +113,7 @@ I took these answers into consideration when considering the categories for my w
 <br><br><br>
 
 ## 2. Define
-####Empathy Mapping
+#### Empathy Mapping
 ![Empathy](https://github.com/nihilsmaw/wire_website/blob/master/md_images/empathy_map.jpg?raw=true)
 [Link: Interaction Design Foundation](https://www.interaction-design.org/literature/article/stage-2-in-the-design-thinking-process-define-the-problem-and-interpret-the-results)
 
@@ -216,7 +211,7 @@ Once I decided on the direction I decided the colours and typography that would 
 
 # 4. Feedback
 ### User Tests
-####Script (approx 10min)
+#### Script (approx 10min)
 
 Hi [  user name  ], My name is Frank and I’m doing some research to help design a band website.  Thanks for taking the time to speak with me today. 
 
@@ -236,7 +231,7 @@ Do you have any questions before we begin?
 * Do you think the website gives a good representation to the type of band genre?
 * Overall, what do you like/dislike about the website? Be as frank as you like, I won’t be offended.
 
-##### See user test on youtube
+#### See user test on youtube (click image)
 
 [![IMAGE ALT TEXT](/md_images/youtube_user_test.JPG)](https://youtu.be/yRjraLh-ydM "User_Test")
 
