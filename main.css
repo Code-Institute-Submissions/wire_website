@@ -268,4 +268,10 @@ a>-webkit-any-link:hover {
         min-height: 950px;
         background-color: rgba(0, 0, 0, 0.70);
     }
+    
+}
+
+@media (max-width: 1719px){
+    .img-name{
+        display: none;
 }
